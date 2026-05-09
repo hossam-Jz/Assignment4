@@ -1,0 +1,11 @@
+GET all users : http://localhost:8080/users
+
+add user :http://localhost:8080/add-User
+
+update user : http://localhost:8080/update-user/1
+
+delete user : http://localhost:8080/delete-user/2
+
+get user by name : http://localhost:8080/getByName?name=Hossam
+
+filter by min age : http://localhost:8080/MinAge?MinAge=22
